@@ -1,5 +1,6 @@
 ## edups - An educational prescribing system
 
+More informations under https://edups.nl
 <!--
 
 **Here are some ideas to get you started:**
