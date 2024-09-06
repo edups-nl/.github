@@ -1,4 +1,4 @@
-## edups - An educational prescribing system from Rotterdam
+## edups - An educational prescribing system
 
 <!--
 
