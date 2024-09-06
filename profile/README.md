@@ -6,7 +6,7 @@ Contact us at info@edups.nl
 
 
 
-`Coded in Rotterdam since 2023`
+`Coded in Rotterdam since 2022`
 
 <!--
 
