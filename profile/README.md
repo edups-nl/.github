@@ -1,6 +1,13 @@
 ## edups - An educational prescribing system
 
-More informations under https://edups.nl
+More information under https://edups.nl
+
+Contact us at info@edups.nl
+
+
+
+`Coded in Rotterdam`
+
 <!--
 
 **Here are some ideas to get you started:**
