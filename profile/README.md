@@ -1,4 +1,4 @@
-## Hi there 👋
+## edups - An educational prescribing system from Rotterdam
 
 <!--
 
