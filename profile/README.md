@@ -1,7 +1,5 @@
 ## edups - An educational prescribing system
 
-![image](https://github.com/user-attachments/assets/7bb01fc5-3472-4b7c-8df1-7501e254e59d)
-
 <br>
 
 Find more information under https://edups.nl or write us at info@edups.nl
