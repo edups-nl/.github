@@ -1,10 +1,12 @@
 ## edups - An educational prescribing system
 
-More information under https://edups.nl
+![image](https://github.com/user-attachments/assets/7bb01fc5-3472-4b7c-8df1-7501e254e59d)
 
-Contact us at info@edups.nl
+<br>
 
+Find more information under https://edups.nl or write us at info@edups.nl
 
+<br>
 
 `Coded in Rotterdam since 2022`
 
